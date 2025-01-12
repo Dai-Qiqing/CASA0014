@@ -40,6 +40,8 @@ This project aims to optimize learning environments by utilizing IoT technology 
 - **DHT11 Sensor**: For temperature and humidity monitoring.
 - **TEMT6000 Sensor**: For light intensity measurement.
 
+![ESP8266 Code Flowchart](https://raw.githubusercontent.com/Dai-Qiqing/CASA0014/main/images/ESP8266_code_flowchart%20(1)(1).png)
+
 ### **Software**
 - **Communication Protocol**: MQTT for reliable real-time data transfer.
 - **Web Interface**: Designed using HTML/CSS and JavaScript to ensure functionality and user-friendliness.
