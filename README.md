@@ -90,7 +90,7 @@ This project aims to optimize learning environments by utilizing IoT technology 
 
 ## Contributions
 This project highlights the potential of IoT in creating smarter, more adaptive educational spaces. By addressing key environmental factors, it enhances learning efficiency and provides a model for future applications in smart classrooms.
-   
+ 
 ---
 
 ## References
